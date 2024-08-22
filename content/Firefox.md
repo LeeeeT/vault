@@ -2,4 +2,4 @@
 
 A browser by [[Mozilla]].
 
-I [[Use|use]] it.
+I [[Use|use]] it on [[Windows]].

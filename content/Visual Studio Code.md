@@ -7,4 +7,4 @@ aliases:
 
 A code editor by [[Microsoft]].
 
-I [[Use|use]] it.
+I [[Use|use]] it on [[Windows]].

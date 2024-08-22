@@ -2,4 +2,4 @@
 
 A [[Docker]] containerization software for developers.
 
-I [[Use|use]] it.
+I [[Use|use]] it on [[Windows]].
