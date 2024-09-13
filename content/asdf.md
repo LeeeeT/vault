@@ -2,4 +2,4 @@
 
 A tool version manager.
 
-I [[Use|use]] it.
+I [[Don't Use|don't use]] it.

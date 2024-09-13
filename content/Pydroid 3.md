@@ -2,4 +2,4 @@
 
 A [[Python]] IDE for mobile devices.
 
-I [[Use|use]] it.
+I [[Use|use]] it on [[Android]].

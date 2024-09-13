@@ -8,4 +8,4 @@ aliases:
 
 An implementation of OpenPGP standard.
 
-I [[Use|use]] it.
+I [[Use|use]] it on [[Windows]] via [[Scoop]].

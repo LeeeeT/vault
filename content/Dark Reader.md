@@ -2,4 +2,4 @@
 
 A dark mode browser extension.
 
-I [[Use|use]] it in [[Firefox]] and [[Iceraven Browser]].
+I [[Use|use]] it on [[Windows]] in [[Firefox]] and on [[Android]] in [[Iceraven Browser]].

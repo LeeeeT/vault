@@ -2,4 +2,4 @@
 
 A shell.
 
-I [[Use|use]] it.
+I [[Use|use]] it on [[Windows]] and in [[Termux]].

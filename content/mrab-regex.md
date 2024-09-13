@@ -2,4 +2,4 @@
 
 An enhanced regex implementation for [[Python]].
 
-I [[Use|use]] it.
+I [[Don't Use|don't use]] it.

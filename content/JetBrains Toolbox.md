@@ -2,4 +2,4 @@
 
 An app for managing [[JetBrains]] IDEs.
 
-I [[Use|use]] it.
+I [[Use|use]] it on [[Windows]] via [[Scoop]].

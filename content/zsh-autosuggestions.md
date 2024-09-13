@@ -2,4 +2,4 @@
 
 An automatic suggestions plugin for [[Zsh]].
 
-I [[Use|use]] it. Installed via [[Oh My Zsh]].
+I [[Use|use]] it via [[Oh My Zsh]].

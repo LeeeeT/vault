@@ -2,4 +2,4 @@
 
 A MIUI customizer.
 
-I [[Use|use]] it.
+I [[Use|use]] it on my [[Android]] phone.
